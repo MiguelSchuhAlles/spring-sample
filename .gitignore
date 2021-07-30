@@ -1,0 +1,34 @@
+.pmd*
+*.orig
+*.java.hsp
+*.sonarj
+*.sw*
+.DS_Store
+.settings
+.springBeans
+.git
+.metadata
+.settings
+.recommenders
+.factorypath
+.vscode
+.flattened-pom.xml
+**/.attach_*
+
+# Eclipse artifacts and output dirs
+**/.project
+**/.settings
+**/.classpath
+**/.recommenders
+**/.factorypath
+**/target
+**/bin
+**/.README.md.html
+
+# IDEA artifacts and output dirs
+**/*.iml
+**/*.ipr
+**/*.iws
+**/.idea
+**/out
+**/test-output
